@@ -1,0 +1,2 @@
+language: python3-starlette-debian
+fprocess: python index.py

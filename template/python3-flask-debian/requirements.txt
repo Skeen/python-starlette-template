@@ -1,3 +1,1 @@
-flask
-waitress
-
+../python3-flask/requirements.txt

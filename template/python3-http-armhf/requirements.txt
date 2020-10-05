@@ -1,2 +1,1 @@
-flask
-waitress
+../python3-http-debian/requirements.txt

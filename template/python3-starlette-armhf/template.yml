@@ -1,0 +1,2 @@
+language: python3-starlette-armhf
+fprocess: python index.py

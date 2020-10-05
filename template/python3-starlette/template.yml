@@ -1,0 +1,2 @@
+language: python3-starlette
+fprocess: python index.py
